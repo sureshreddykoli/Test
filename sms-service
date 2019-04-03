@@ -1,2 +1,2 @@
-minimum=10
-maximum=200
+sms-service.minimum=99
+sms-service.maximum=9999
